@@ -1,0 +1,63 @@
+id: IF6A8BE91
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:38:06.662694'
+last_modified: '2022-06-17T11:38:06.662704'
+parser: null
+source_metadata:
+  title: Copper-Coloured Mountain
+  language: en
+  description: 'Texts related to the Copper-Coloured Mountain of Glory (zangs mdog
+    dpal ri), the heaven of Guru Padmasambhava:'
+  volume:
+    fCBDC:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: fCBDC.txt
+      order: 1
+      parent: Aspiration Prayers
+    f64A1:
+      title: Threefold Aspiration for Rebirth in Zangdok Palri
+      base_file: f64A1.txt
+      order: 2
+      parent: Aspiration Prayers
+    f484D:
+      title: 'A Joyful Chariot for the Fortunate: An Aspiration to Travel to the Copper-Coloured
+        Mountain of Glory'
+      base_file: f484D.txt
+      order: 3
+      parent: Aspiration Prayers
+    fB086:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: fB086.txt
+      order: 4
+      parent: Aspiration Prayers
+    fD3D5:
+      title: A Prayer of Aspiration for the Mountain of Glory
+      base_file: fD3D5.txt
+      order: 5
+      parent: Aspiration Prayers
+    f72EF:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      base_file: f72EF.txt
+      order: 6
+      parent: Aspiration Prayers
+    f49A4:
+      title: Training in the Pure Realms of the Three Kāyas
+      base_file: f49A4.txt
+      order: 7
+      parent: Aspiration Prayers
+    fFB77:
+      title: 'The Secret Path of Wisdom: A Prayer of Aspiration for the Mountain of
+        Glory'
+      base_file: fFB77.txt
+      order: 8
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
